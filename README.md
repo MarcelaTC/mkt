@@ -1,6 +1,3 @@
-# mkt
-Proyectos de programación Python
-
 # Proyectos de análisis y automatización con Python para Marketing Digital
 
 Este repositorio contiene una colección de proyectos desarrollados en Python con foco en marketing digital, automatización de tareas y análisis de datos. Todos los ejercicios están pensados como prácticas aplicadas para mejorar habilidades técnicas relevantes en entornos de performance marketing, CRO y análisis de campañas.
