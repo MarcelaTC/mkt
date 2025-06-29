@@ -92,7 +92,7 @@ def abrir_ventana():
 	)
 	ventana = tk.Toplevel(root)
 	ventana.title("Ventana de resultados")
-	ventana.geometry("250x150")
+	ventana.geometry("300x200")
 
 	etiqueta = tk.Label(ventana, text=mensaje, bg="#232323", fg="white", font=("Arial", 12), wraplength=280, justify="left")
 	etiqueta.pack(pady=20)
